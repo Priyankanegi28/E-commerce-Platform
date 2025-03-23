@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Ignore node_modules (to prevent pushing dependencies)
+node_modules/
+
+# Ignore build files
+build/
+dist/
